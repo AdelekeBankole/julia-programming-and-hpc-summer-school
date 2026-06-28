@@ -1,2 +1,9 @@
-# julia-programming-and-hpc-summer-school
-Course material for Julia programming and HPC course at DSA 2026 summer school
+# Introduction to julia programming and high performance computing (HPC)
+
+This repository contains course materials for the julia programming language and HPC course delivered at the Data Science Africa 2026 summer school, Makerere University, Kampala, Uganda. The materials are available such that learners can follow the content in their own pace and time.
+
+# Installation and setup
+
+# Prerequisites
+
+# Learning Objectives
