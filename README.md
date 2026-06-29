@@ -7,3 +7,13 @@ This repository contains course materials for the julia programming language and
 # Prerequisites
 
 # Learning Objectives
+
+In session 1, we will:
+- Fundamentals of the Julia programming language
+- Ecosystem
+- Multiple dispatch
+
+In session 2, we will:
+- Introduction to HPC
+- Distributed and Shared Paprallelism
+- Performance and Profiling
