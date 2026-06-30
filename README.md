@@ -10,10 +10,12 @@ This repository contains course materials for the julia programming language and
 
 In session 1, we will cover:
 - Fundamentals of the Julia programming language
-- Multiple dispatch, code specialization
-- Type stability
+- Multiple dispatch and code specialization
+- Julia's type systems and data structures
+- Putting these ideas to use in your models
 
 In session 2, we will cover:
-- Introduction to HPC, and workflows
-- Distributed and Shared Paprallelism
+- Introduction to HPC and workflows
+- Distributed and Shared Parallelism
 - Performance and Profiling
+- GPU programming
