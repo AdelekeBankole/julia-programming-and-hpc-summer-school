@@ -2,9 +2,7 @@
 
 This repository contains course materials for the julia programming language and HPC course delivered at the Data Science Africa 2026 summer school, Makerere University, Kampala, Uganda. The materials are available such that learners can follow the content in their own pace and time.
 
-# Installation and setup
-
-# Prerequisites
+# Table of contents
 
 # Learning Objectives
 
@@ -19,3 +17,9 @@ In session 2, we will cover:
 - Distributed and Shared Parallelism
 - Performance and Profiling
 - GPU programming
+
+# Installation and setup
+
+# Prerequisites
+
+
