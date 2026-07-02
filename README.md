@@ -24,4 +24,6 @@ In session 2, we will cover:
 
 # License Information
 
+The code material in this course is licensed under the MIT License.
+
 
