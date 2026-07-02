@@ -22,4 +22,6 @@ In session 2, we will cover:
 
 # Prerequisites
 
+# License Information
+
 
