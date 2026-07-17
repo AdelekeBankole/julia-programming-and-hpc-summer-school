@@ -22,7 +22,6 @@ authors:
     affiliations: Research Software Engineer <br> University of Cambridge
     orcid: 0000-0003-2804-5457
 date: "2026-07-21"
-bibliography: references.bib
 revealjs-plugins:
   - attribution
 from: markdown+emoji
