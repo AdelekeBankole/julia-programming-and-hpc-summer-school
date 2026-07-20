@@ -29,6 +29,11 @@ winget install --name Julia --id 9NJNWW8PVKMN -e -s msstore
 Follow the instructions and restart your terminal to register all environment variables. 
 
 # Prerequisites
+- Julia installation
+- Basic understanding of mathematical operations
+- Undergraduate knowledge of calculus, linear algebra 
+- Writing and using functions
+- Working with Pluto, or Jupyter nptebooks
 
 # License Information
 
