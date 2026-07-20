@@ -2,8 +2,6 @@
 
 This repository contains course materials for the julia programming language and HPC course delivered at the Data Science Africa 2026 summer school, Makerere University, Kampala, Uganda. The materials are available such that learners can follow the content in their own pace and time.
 
-# Table of contents
-
 # Learning Objectives
 
 In session 1, we will cover:
@@ -24,10 +22,11 @@ Get Julia via juliaup. For macOS and Linux distribution
 ```
 curl -fsSL https://install.julialang.org | sh
 ```
-and for Windows
+and for Windows in the powershell
 ```
 winget install --name Julia --id 9NJNWW8PVKMN -e -s msstore
 ```
+Follow the instructions and restart your terminal to register all environment variables. 
 
 # Prerequisites
 
