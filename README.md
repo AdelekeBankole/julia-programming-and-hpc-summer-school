@@ -12,10 +12,9 @@ In session 1, we will cover:
 - Julia's type systems and data structures
 - Putting these ideas to use in your models
 
-In session 2, we will cover:
+In session 2, we will shortly cover:
 - Introduction to HPC and workflows
 - Distributed and Shared Parallelism
-- Performance and Profiling
 - GPU programming
 
 # Installation and setup
