@@ -19,6 +19,16 @@ In session 2, we will shortly cover:
 
 # Installation and setup
 
+Get Julia via juliaup. For macOS and Linux distribution
+
+```
+curl -fsSL https://install.julialang.org | sh
+```
+and for Windows
+```
+winget install --name Julia --id 9NJNWW8PVKMN -e -s msstore
+```
+
 # Prerequisites
 
 # License Information
